@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/ICON">
+        <file>ABOUT.gif</file>
+        <file>light.ico</file>
+    </qresource>
+</RCC>
